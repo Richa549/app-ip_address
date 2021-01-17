@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "0.1.0",
+  "description": "An IAP product serving IP address management functions",
+  "main": "main.js",
+  "scripts": {
+    "test": "Accept the default offered for test command."
+  },
+  "repository": {
+    "type": "git",
+    "url": "Accept the default offered for git repository."
+  },
+  "keywords": [
+    "Accept",
+    "the",
+    "default",
+    "offered",
+    "for",
+    "keywords."
+  ],
+  "author": "ACME",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "ip-cidr": "^2.1.1"
+  }
+}
